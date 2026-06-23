@@ -36,6 +36,7 @@ This is an ongoing repository of Python bootcamp projects showcasing my progress
 
 📚 **This is a working project.** I will continue adding new projects as I progress through the bootcamp course.
 
+Each project folder includes a preview video demonstrating the final result and functionality.
 For detailed information about any specific project, check the `README.md` file in that project's folder.
 
 ---
