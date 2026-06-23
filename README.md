@@ -5,7 +5,6 @@ A collection of Python projects I've completed during my bootcamp journey. These
 ## 📋 Table of Contents
 
 - [Overview](#overview)
-- [Project Structure](#project-structure)
 - [Beginner Projects](#beginner-projects)
 - [Intermediate Projects](#intermediate-projects)
 - [Note](#note)
