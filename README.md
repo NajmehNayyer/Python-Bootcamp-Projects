@@ -1,3 +1,20 @@
+# Python Bootcamp Projects
+
+A collection of Python projects I've completed during my bootcamp journey. These projects represent my own work and learning—I either built them from scratch or used instructor code only to optimize my implementations.
+
+## 📋 Table of Contents
+
+- [Overview](#overview)
+- [Project Structure](#project-structure)
+- [Beginner Projects](#beginner-projects)
+- [Intermediate Projects](#intermediate-projects)
+- [Note](#note)
+
+## Overview
+
+This is an ongoing repository of Python bootcamp projects showcasing my progression through different difficulty levels. **I continue to add new projects as I advance through the course.**
+
+**Important Note:** While I've completed many projects throughout the bootcamp, this repository contains **projects I built independently or with minimal use of instructor code for optimization**. I've avoided including projects that relied heavily on template code to ensure this collection reflects genuine learning and problem-solving.
 
 ## Beginner Projects
 
