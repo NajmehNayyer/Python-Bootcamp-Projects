@@ -9,45 +9,12 @@ Interactive desktop application for learning French vocabulary using spaced repe
 - **Persistent Storage** - Saves learning progress to CSV file across sessions
 - **Button Lock Mechanism** - Prevents accidental clicks during card flip delay
 
-## Python Concepts Used
-
-**Object-Oriented Principles**
-- Modular function design with single responsibilities
-- State encapsulation using dictionary (`holder`) for current word tracking
-
-**Data Handling**
-- Pandas DataFrame for efficient CSV operations
-- Boolean indexing to filter unlearned words: `df[df['learnt'] != 1]`
-- DataFrame updates and persistence
-
-**GUI Development**
-- Tkinter Canvas for visual flashcard
-- Image integration (PhotoImage)
-- Widget state management (enabling/disabling buttons)
-- Event binding with lambda functions
-
-**Functional Programming**
-- Pure functions for specific tasks
-- Higher-order functions with `lambda`
-- Timed execution using `window.after()`
-
-## Project Structure
+## CSV Format
 
 ```
-Flashcard App/
-├── main.py
-├── data/
-│   └── french_words.csv
-└── images/
-    ├── card_front.png
-    ├── right.png
-    └── wrong.png
-```
-
-## Requirements
-
-```bash
-pip install pandas
+French,English,learnt
+bonjour,hello,0
+merci,thank you,0
 ```
 
 ## Usage
@@ -57,10 +24,6 @@ pip install pandas
 3. Click ✓ for known words, ✗ to skip
 4. Progress auto-saves to CSV
 
-## CSV Format
+## Preview
 
-```
-French,English,learnt
-bonjour,hello,0
-merci,thank you,0
-```
+https://github.com/user-attachments/assets/929c1b0a-f41d-4efd-9a13-ded89ce3ab79
